@@ -1,2 +1,2 @@
 # PyWebIO-BMI-Calculator-WebApp
-A web app built using PyWebIO
+A bmi calculator web app built using PyWebIO. Video Explanation available at: https://www.youtube.com/watch?v=b8EZdkrpoDg
